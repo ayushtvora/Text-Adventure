@@ -1,0 +1,3 @@
+Storyline 1: You wake up, and find out that you are in a wagon. There are other people in the wagon with you. The other people are acting friendly with you. You see that you also have a knife in your back pocket
+    Choice 1: Act friendly towards them
+    Choice 2: Act hostile towards them
