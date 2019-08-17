@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: Hostile
   m_EditorClassIdentifier: 
   storyText: You decide to act aggressive towards them.
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: d15abc8f9b84f7e45820df3c0d67d73d, type: 2}
+  - {fileID: 11400000, guid: a95a45d418190514395a71ba10782852, type: 2}

@@ -13,4 +13,6 @@ MonoBehaviour:
   m_Name: Friendly
   m_EditorClassIdentifier: 
   storyText: You decide to remain friendly to them.
-  nextStates: []
+  nextStates:
+  - {fileID: 11400000, guid: 14f5a1b184e803546be115b87f489e80, type: 2}
+  - {fileID: 11400000, guid: a95a45d418190514395a71ba10782852, type: 2}
