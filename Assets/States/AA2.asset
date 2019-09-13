@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0aba94f9439d949a2c157d3d022d98, type: 3}
+  m_Name: AA2
+  m_EditorClassIdentifier: 
+  storyText: "Act Friendly Pt. 2\r\nLocation: Wagon in a forest\r\nState: Healthy\r\nThey
+    say that your tribe the Astragram's are at war against the Ibragram tribe. You
+    are not yet sure why they are at war, but don't want to interrupt the story. Your
+    wagon-mates wonder where all your weapons went and how he was knocked out.\r\n\r\n1.
+    Tell them that your memory was wiped, and don't remember anything."
+  nextStates:
+  - {fileID: 11400000, guid: 7e6c8b9766e54884688b20d7d397fa78, type: 2}

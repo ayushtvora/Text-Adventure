@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0aba94f9439d949a2c157d3d022d98, type: 3}
+  m_Name: AACA
+  m_EditorClassIdentifier: 
+  storyText: "Talk to the Man\r\nLocation: Forest - Neutral Territory\r\nStatus: Healthy\r\nYou
+    ask him what he knows about you. He claims that he was your younger brother. He
+    explained how he was captured by the Ibragram's, given the Ibragram tattoo, and
+    was thrown out of the kingdom. His own teammates did not trust him. He had almost
+    lost hope until he met you. He tells you stories about the days of when they were
+    kids.\r\n\r\n1. Continue fighting with him "
+  nextStates:
+  - {fileID: 11400000, guid: e79f957998787d342b109484c586ce80, type: 2}

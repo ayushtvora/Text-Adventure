@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0aba94f9439d949a2c157d3d022d98, type: 3}
+  m_Name: AA1
+  m_EditorClassIdentifier: 
+  storyText: "Act Friendly Pt. 1\r\nLocation: Wagon in a forest\r\nState: Healthy\r\nYou
+    ask them where you are. They claim to be warriors from the tribe of Astragram.
+    Those of Astragram have a tattoo of a horse on the back of their neck. They tell
+    you that you have the same tattoo too. You can't check for yourself because there
+    are no mirrors. \r\n\r\n1. Continue"
+  nextStates:
+  - {fileID: 11400000, guid: 57ee0cb52f847194392ed265648ffedf, type: 2}

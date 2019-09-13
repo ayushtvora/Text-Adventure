@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0aba94f9439d949a2c157d3d022d98, type: 3}
+  m_Name: AACB
+  m_EditorClassIdentifier: 
+  storyText: "Fight the Man\r\nLocation: Forest - Neutral Territory\r\nStatus: Dead\r\nYou
+    ignore his attempts. He is trying to make you understand who he is, but you do
+    not trust him. You were told to kill all enemies, and you try to do so. He dodged
+    all your attacks as if he knew your fighting style already. He counters all your
+    attacks and defeats you. In your last moments, you see him crying.\r\n\r\n1. Restart"
+  nextStates:
+  - {fileID: 11400000, guid: 282453dfc51d9dd42ac0712eed286fe1, type: 2}

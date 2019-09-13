@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0aba94f9439d949a2c157d3d022d98, type: 3}
+  m_Name: AA3
+  m_EditorClassIdentifier: 
+  storyText: "Act Friendly Pt. 3\r\nLocation: Wagon in a forest\r\nState: Healthy\r\nThey
+    are confused, but believe you. They still want you to keep fighting in the war,
+    so they ask you if you want to be in the front-line with a sword, or the back-line
+    with a bow and arrows. You are not sure what you are most comfortable with, so
+    you decide to try out both.\r\n\r\nWhat will you try out first?\r\n1. The sword\r\n2.
+    The bow and arrow"
+  nextStates:
+  - {fileID: 11400000, guid: d09cd6b68c6ae30429f90fca12658e49, type: 2}
+  - {fileID: 11400000, guid: eb0f78e0988017c48978623cd28fce1f, type: 2}

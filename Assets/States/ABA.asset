@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3e0aba94f9439d949a2c157d3d022d98, type: 3}
-  m_Name: Hostile
+  m_Name: ABA
   m_EditorClassIdentifier: 
-  storyText: You decide to act aggressive towards them.
+  storyText: "Use the Pocket Knife\r\nLocation: Wagon in a forest\r\nState: Dead\r\nThe
+    people inside the wagon see the blade of the knife and take it as a hostile action.
+    They team up on you and kill you.\r\n\r\n1. Restart"
   nextStates:
-  - {fileID: 11400000, guid: d15abc8f9b84f7e45820df3c0d67d73d, type: 2}
-  - {fileID: 11400000, guid: a95a45d418190514395a71ba10782852, type: 2}
+  - {fileID: 11400000, guid: 282453dfc51d9dd42ac0712eed286fe1, type: 2}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0aba94f9439d949a2c157d3d022d98, type: 3}
+  m_Name: AAC
+  m_EditorClassIdentifier: 
+  storyText: "Become a Front-Liner\r\nLocation: Forest - Neutral Territory\r\nStatus:
+    Healthy\r\nYou decide to become a front-liner. You are given a sword and are told
+    to go kill all Ibragram's on sight. You slay 54 people until you are confronted
+    with a man from Ibragram who recognizes you. He calls out your name.\r\n\r\nWhat
+    do you do?\r\n1. Fight him\r\n2. Talk to him"
+  nextStates:
+  - {fileID: 11400000, guid: 5d73c1d5b703bef44863df96e2b25c0e, type: 2}
+  - {fileID: 11400000, guid: 42a995ef659e1174e8fb3578b2295f4d, type: 2}

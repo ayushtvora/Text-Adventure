@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e0aba94f9439d949a2c157d3d022d98, type: 3}
+  m_Name: AAA2
+  m_EditorClassIdentifier: 
+  storyText: "Trying the Bow and Arrow Second\r\nLocation: Wagon\r\nState: Healthy\r\nYou
+    are given 5 arrows. You first take aim at a tree, and you miss. The second shot,
+    you just barely land. You shoot again at the tree, aiming for a dot on it, and
+    get it right in. Your confidence goes up, and you use the remaining arrows to
+    shoot down a bunny and a bird.\r\n\r\n1. Decide to become a front-liner\r\n2.
+    Decide to become a back-liner"
+  nextStates:
+  - {fileID: 11400000, guid: 546d7117c0905234d9a1712fe9ad0236, type: 2}
+  - {fileID: 11400000, guid: 7b5f22d545037644eaad5dc2271b1f6d, type: 2}

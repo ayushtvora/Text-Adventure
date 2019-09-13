@@ -10,9 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3e0aba94f9439d949a2c157d3d022d98, type: 3}
-  m_Name: Friendly
+  m_Name: AACAA
   m_EditorClassIdentifier: 
-  storyText: You decide to remain friendly to them.
+  storyText: "Continue Fighting\r\nLocation: Forest - Neutral Territory\r\nStatus:
+    Dead\r\n\r\nYou continue to fight with him on your side. However, eventually,
+    you get shot down by archers. An unfortunate death.\r\n\r\n1. Restart"
   nextStates:
-  - {fileID: 11400000, guid: 14f5a1b184e803546be115b87f489e80, type: 2}
-  - {fileID: 11400000, guid: a95a45d418190514395a71ba10782852, type: 2}
+  - {fileID: 11400000, guid: 282453dfc51d9dd42ac0712eed286fe1, type: 2}
